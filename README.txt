@@ -7,3 +7,5 @@ version from master branch
 version from feature-A branch
 version after resolving conflict
 
+this change will be stashed
+change made by User-1
